@@ -1,5 +1,5 @@
 function dc() {
-    local dc_executable="/home/myu/infinite/projects/dc/target/debug/dc"
+    local dc_executable="EXECUTABLE_PATH"
 
     if [ ! -f "$dc_executable" ]; then
         echo "Error: dc executable not found at $dc_executable"

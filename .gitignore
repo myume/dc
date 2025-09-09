@@ -1,5 +1,6 @@
 # nix specific
 .direnv
 .envrc
+result
 
 /target
