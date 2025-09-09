@@ -2,6 +2,8 @@
 
 cd backwards
 
+https://github.com/user-attachments/assets/e85197fc-bf08-40ad-8fd8-9926b459a86e
+
 ## Nix setup
 
 Add the flake input:
